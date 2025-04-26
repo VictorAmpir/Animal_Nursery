@@ -271,7 +271,8 @@ SELECT 'Ослы' AS тип_животного, имя, команда, дата
 
 ```
 # Далее код JAVA
-https://github.com/VictorAmpir/Animal-Nursery/tree/main/src/main/java/ru/shum
+[https://github.com/VictorAmpir/Animal-Nursery/tree/main/src/main/java/ru/shum](https://github.com/VictorAmpir/Animal_Nursery/tree/main/src/main/java/ru/shum)
+
 13. Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
 14. Написать программу, имитирующую работу реестра домашних животных.<br><br>
 
